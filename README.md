@@ -1,4 +1,4 @@
-# Welcome to My Profile!👋
+## Welcome to My Profile!👋
 * Hi there 👋, I am Pratik, I am very passionate about artificial intelligence, deep learning and its real-world applications.
 * I aim to use my expertise in this field to advance innovations in this sector and bring about a positive change in society.
 * On this Github profile, you'll find various projects I have worked/collaborated on related to machine learning and artificial intelligence. 💼 I am always open to collaborate on different exciting projects with other professionals in this field, so please feel free to reach out.
